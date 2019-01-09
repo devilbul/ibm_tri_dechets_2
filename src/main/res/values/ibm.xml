@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="visual_recognition_api_key" translatable="false">BoRoUo4gM0C2MQPWSNuhH2wZy5lw8RNhqKst_uO-tUn1</string>
+    <string name="visual_recognition_version" translatable="false">2018-03-19</string>
+    <string name="visual_recognition_model" translatable="false">RecyclableModel_493133210</string>
+
+    <string name="natural_language_classifier_api_key" translatable="false">Ep_tpw0NEKYpiHgDhWFpxetWjct_w6_PhZiQCJPnhuyc</string>
+    <string name="natural_language_classifier_classifier_id" translatable="false">d519bfx490-nlc-1410</string>
+
+</resources>
